@@ -6,7 +6,7 @@ https://thepihut.com/products/3d-xmas-tree-for-raspberry-pi?variant=38284925265
 https://github.com/p10tyr/thepihut3dxmastree-examples
 
 ## Get the tree the right way round!!!
-As it says on the piHut webside, use caution when installing the tree on the pi, or it could end badly for you pi.
+As it says on the piHut webside, use caution when installing the tree on the pi, or it could end badly for you pi.<br>
 The resisters should be facing into the board.
 
 ## Install guide
