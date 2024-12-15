@@ -10,9 +10,15 @@ As it says on the piHut webside, use caution when installing the tree on the pi,
 The resisters should be facing into the board.
 
 ## Install guide
+
+1. Run this to update your pi and install the needed additional python bits
 ```bash
 sudo apt update
 sudo apt upgrade
 
 sudo apt-get install python3-gpiozero
 ```
+2. Copy this repo into your pi how ever you like
+3. Change to the folder you put it in
+4. 'sudo cp webpages /var/www/html'
+5. 
