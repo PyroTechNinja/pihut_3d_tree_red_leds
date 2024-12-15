@@ -1,9 +1,9 @@
 # pihut_3d_tree_red_leds
-Code for the piHuts 3D Christmas tree with red LEDs, includes a web interface
+Code for the piHuts 3D Christmas tree with red LEDs, includes a web interface<br>
 
-Based on the code from the piHut website and from p10tyr 
-https://thepihut.com/products/3d-xmas-tree-for-raspberry-pi?variant=38284925265
-https://github.com/p10tyr/thepihut3dxmastree-examples
+Based on the code from the piHut website and from p10tyr<br>
+https://thepihut.com/products/3d-xmas-tree-for-raspberry-pi?variant=38284925265 <br>
+https://github.com/p10tyr/thepihut3dxmastree-examples <br>
 
 I'm doing it on a Pi3B but should work on just about all of them
 
