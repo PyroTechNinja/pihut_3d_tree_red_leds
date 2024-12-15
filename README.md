@@ -20,7 +20,7 @@ sudo apt upgrade
 
 sudo apt-get install python3-gpiozero
 ```
-2. Copy this repo into your pi `git clone https://github.com/PyroTechNinja/pihut_3d_tree_red_leds.git`
+2. Copy this repo into your pi `git clone https://github.com/PyroTechNinja/pihut_3d_tree_red_leds.git` or download as a zip and expand `unzip master.zip`
 3. Change to the folder you put it in `cd pihut_3d_tree_red_leds`
 4. `sudo cp -r webpages/ /var/www/html`
 5. Edit the $filepath to your python files location in change.php `sudo nano /var/http/www/change.php`
